@@ -1,0 +1,19 @@
+{
+    "assets": [
+        {
+            "file_name": "Plain Craft Launcher X.exe",
+            "version": {
+                "channel": "stable",
+                "name": "1.0.145",
+                "code": 145
+            },
+            "upd_time": "2026-06-27",
+            "downloads": [
+                "https://github.com/yaxzer21145/PCL-X/releases/download/v1.0.145/PCL.X.zip"
+            ],
+            "patches": [],
+            "sha256": "在此处填入计算出的SHA256值",
+            "changelog": "<summary>PCL X 1.0.145 更新</summary>\n\n- 修复公告空引用异常\n- 修改名称为 PCL X\n- 更换更新服务器地址"
+        }
+    ]
+}

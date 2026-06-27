@@ -1,0 +1,16 @@
+{
+    "content": [
+        {
+            "title": "欢迎使用 PCL X",
+            "detail": "PCL X 是基于 PCL N Edition 的个人定制版本。\n\n感谢您选择使用本启动器！",
+            "id": "welcome-pcl-x",
+            "date": "2026-06-27",
+            "btn1": {
+                "text": "GitHub 仓库",
+                "command": "打开网页",
+                "command_paramter": "https://github.com/yaxzer21145/PCL-X"
+            },
+            "btn2": null
+        }
+    ]
+}

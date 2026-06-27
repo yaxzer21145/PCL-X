@@ -1,0 +1,12 @@
+{
+    "cache": "fb1a20ccfa2f0421a705a877c0254cde",
+    "srarm64": "6f2294cbc1fd846d1f601be3f9b8140e",
+    "srx64": "6f2294cbc1fd846d1f601be3f9b8140e",
+    "frarm64": "6f2294cbc1fd846d1f601be3f9b8140e",
+    "frx64": "6f2294cbc1fd846d1f601be3f9b8140e",
+    "updates-srarm64": "41bf5a5ff458b0ca41ebde6fef18f504",
+    "updates-srx64": "41bf5a5ff458b0ca41ebde6fef18f504",
+    "updates-frarm64": "7a7f8aa51187ea4ba911ae1e82feeede",
+    "updates-frx64": "7a7f8aa51187ea4ba911ae1e82feeede",
+    "announcement": "521242c5e36ec372cc4f0676035c0301"
+}
