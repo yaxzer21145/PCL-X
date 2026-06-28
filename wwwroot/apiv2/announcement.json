@@ -2,7 +2,7 @@
     "content": [
         {
             "title": "欢迎使用 PCL X",
-            "detail": "PCL X 是基于 PCL N Edition 的个人定制版本。\n\n感谢您选择使用本启动器！",
+            "detail": "PCL X 是基于 PCL-CE 开源代码，由 yaxzer21145 独立开发和维护的版本。\n\n感谢您选择使用本启动器！",
             "id": "welcome-pcl-x",
             "date": "2026-06-27",
             "btn1": {
