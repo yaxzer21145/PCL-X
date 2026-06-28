@@ -12,7 +12,7 @@
                 "https://github.com/yaxzer21145/PCL-X/releases/download/v1.0.0/PCL.X.zip"
             ],
             "patches": [],
-            "sha256": "29c5a70c09a7bad751eb4c6b7848b72249181c44bb0d360444ebde9eaa351b3e",
+            "sha256": "1555444BCB8A9D567B3CAA628143EECF0A1C0E01F882D2C8D362649DE938BF7D",
             "changelog": "<summary>PCL X 1.0.0 首个版本发布</summary>\n\n**主要变更：**\n- 将名称从 PCL N Edition 改为 PCL X\n- 修复公告空引用异常\n- 更换更新服务器地址为 GitHub\n- 基于 PCL N Edition 1.0.144 开发"
         }
     ]
