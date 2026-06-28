@@ -4,16 +4,16 @@
             "file_name": "Plain Craft Launcher X.exe",
             "version": {
                 "channel": "stable",
-                "name": "1.0.0",
-                "code": 100
+                "name": "1.1.0",
+                "code": 110
             },
-            "upd_time": "2026-06-27",
+            "upd_time": "2026-06-28",
             "downloads": [
-                "https://github.com/yaxzer21145/PCL-X/releases/download/v1.0.0/PCL.X.zip"
+                "https://github.com/yaxzer21145/PCL-X/releases/download/v1.1.0/PCL.X.zip"
             ],
             "patches": [],
-            "sha256": "29c5a70c09a7bad751eb4c6b7848b72249181c44bb0d360444ebde9eaa351b3e",
-            "changelog": "<summary>PCL X 1.0.0 首个版本发布</summary>\n\n**主要变更：**\n- 将名称从 PCL N Edition 改为 PCL X\n- 修复公告空引用异常\n- 更换更新服务器地址为 GitHub\n- 基于 PCL N Edition 1.0.144 开发"
+            "sha256": "4AA6E72C623E943B38DCC3EB18CC5B6CD1E331D9DBEECA64200D1622AE59C7E3",
+            "changelog": "<summary>PCL X 1.1.0-release 发布</summary>\n\n**主要变更：**\n- 更换更新服务器地址为 GitHub (使用代理)\n- 实现真正的单文件 exe，无需额外 DLL\n- 基于 PCL N Edition 1.0.144 开发"
         }
     ]
 }
